@@ -10,6 +10,7 @@ TclTkIDE ...
 - has a german tutorial / lesson course from tclcoach (see http://www.tcl-coach.de/)
 - color picker (Named Colors by Keith Vetter, see http://wiki.tcl.tk/37701)
 - regexp search function
+- test your tcl script in a slave interpreter
 - create standalone exe files with the help of tclkit 
 	- all you need is inside
 	- integrate your own tcl/tk packages (must be placed in the lib directory)
