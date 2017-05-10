@@ -18,7 +18,7 @@ TclTkIDE ...
 **create:**
 
 - copy the repository complete (inlusive the lib directory).
-- call the batch file makeTclTkIDE with the tk version nunmber as argument
+- call the batch file makeTclTkIDE with the tk version number as argument
 	- eg. makeTclTkIDE 84
 	- this will make TclTkIDE84.exe
 - that's all!
