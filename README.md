@@ -8,7 +8,7 @@ TclTkIDE ...
 
 - syntax highlighting
 - has a german tutorial / lesson course from tclcoach (see http://www.tcl-coach.de/)
-- color picker (Named Colors -- lists and displays all of tcl's named colors # by Keith Vetter, March 19 2003)
+- color picker (Named Colors by Keith Vetter, see http://wiki.tcl.tk/37701)
 - create standalone exe files with the help of tclkit 
 	- all you need is inside
 	- integrate your own tcl/tk packages (must be placed in the lib directory)
