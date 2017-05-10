@@ -22,7 +22,7 @@ TclTkIDE ...
 	- this will make TclTkIDE84.exe
 - that's all!
 
-![TclTkIDE](/TclTkIDE.gif)
+![TclTkIDE](/TclTkIDE.GIF)
 
 **example: create your own wish:**
 - call TclTkIDExx.exe
